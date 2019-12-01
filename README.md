@@ -28,7 +28,7 @@ Generators:
 <BR>DataProc1 -   B0E6 C0BB 3999 18CD 8F1D D055 5BED AC36 A9D7 0DFF, d, (a)ctive
 <BR>DataProc2 -   FEB5 8A8F 7A6A B48C A8A1 E379 82EA 77A7 E22D 5A75, d, (s)pare
 <BR>
-<BR>Privacitat: 
+<BR>Privacy: 
 <BR>- hash sensible data.
 <BR>- hashes on periodical merkel treesdics.
 <BR> Exported public key to make resume id(hash) to improve efficiency and reinforce privacy.
