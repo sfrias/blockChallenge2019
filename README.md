@@ -1,4 +1,10 @@
-# blockChallenge2019
+# blockChallenge2019 ECOBLOCK Team
+
+Josep Maria Torrents
+Josep Romero Garcia
+Jesus Girones Batiste
+Santiago Frias Moreno
+
 Information and IoT prototype for waste management prototyped with vottun.com. Created for entities GPG OpenRSA keys as standard 2048bit keys, and SHA-1 hashes. Files included with public keys exported on directories.
 
 Generators:
