@@ -1,5 +1,5 @@
 # blockChallenge2019
-Information and IoT prototype for waste management prototyped with vottun.com
+Information and IoT prototype for waste management prototyped with vottun.com. Created for entities GPG OpenRSA keys as standard 2048bit keys, and SHA-1 hashes. Files included with public keys exported on directories.
 
 Generators:
 <BR>Familia1 -     2862 86D4 145F ED50 76C6  29C9 6620 4B3A F580 31FE, g, h
