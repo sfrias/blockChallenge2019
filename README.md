@@ -1,5 +1,4 @@
-# blockChallenge2019 ECOBLOCK Team
-
+# blockChain Challenge 2019 ECOBLOCK Team
 <BR>Josep Maria Torrents
 <BR>Josep Romero Garcia
 <BR>Jesus Girones Batiste
