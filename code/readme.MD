@@ -1,1 +1,1 @@
-Prototype monolith incomplete
+Prototype monolith incomplete for Raspberry Pi Zero.
